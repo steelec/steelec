@@ -1,4 +1,6 @@
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=steelec&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steelec&layout=compact&hide_progress=true&theme=github_dark&disable_animation=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
